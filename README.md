@@ -21,7 +21,6 @@
 
 ### 📫 Reach Me
 - 📧 Gmail: **suryaajicki@gmail.com**
-- 🎨 Figma: [**Surya**](https://www.figma.com/@Surya)
 - 📷 Instagram: [**suryaaji.__**](https://www.instagram.com/suryaaji.__?igsh=bHAzc29kOWxlOXMz)
 
 ⭐️ _Thanks for visiting my profile_
