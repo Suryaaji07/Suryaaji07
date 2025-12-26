@@ -5,16 +5,15 @@
 ### 🌱 About Me
 - 🎓 Information Systems Student 
 - 💻 Focus on **Web Development**
-- 👨‍💻 Love working with **Editor**
 - 📚 Currently learning **Modern Web & UI/UX**
 - 🚀 Building small projects to improve skills
 - ✨ Interested in clean UI & maintainable code
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Programming Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,figma,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,python,figma,mysql,vscode" />
 </p>
 
 ---
