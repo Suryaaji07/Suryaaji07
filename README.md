@@ -1,16 +1,27 @@
-## Hi there 👋
+![Surya aji](img/github-header-banner.png)
 
-<!--
-**Suryaaji07/Suryaaji07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- 🎓 Information Systems Student 
+- 💻 Focus on **Web Development**
+- 👨‍💻 Love working with **Editor**
+- 📚 Currently learning **Modern Web & UI/UX**
+- 🚀 Building small projects to improve skills
+- ✨ Interested in clean UI & maintainable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,figma,mysql,vscode" />
+</p>
+
+---
+
+### 📫 Reach Me
+- 📧 Gmail: **suryaajicki@gmail.com**
+- 🎨 Figma: [**Surya**](https://www.figma.com/@Surya)
+- 📷 Instagram: [**suryaaji.__**](https://www.instagram.com/suryaaji.__?igsh=bHAzc29kOWxlOXMz)
+
+⭐️ _Thanks for visiting my profile_
